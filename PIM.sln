@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIM.API", "PIM\PIM.API.csproj", "{978B56F5-A33A-4715-9516-97F2131A8A79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIM.Tests", "PIM.Tests\PIM.Tests.csproj", "{C8E1EC45-80B7-4BF6-B254-265992180229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978B56F5-A33A-4715-9516-97F2131A8A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978B56F5-A33A-4715-9516-97F2131A8A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978B56F5-A33A-4715-9516-97F2131A8A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978B56F5-A33A-4715-9516-97F2131A8A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E1EC45-80B7-4BF6-B254-265992180229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E1EC45-80B7-4BF6-B254-265992180229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E1EC45-80B7-4BF6-B254-265992180229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E1EC45-80B7-4BF6-B254-265992180229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B9272F9-EB8F-40DD-BEDA-58860088CAD0}
+	EndGlobalSection
+EndGlobal
